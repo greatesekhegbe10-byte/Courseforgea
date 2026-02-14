@@ -1,0 +1,7 @@
+{
+  "name": "CourseForge Studio AI",
+  "description": "A professional AI-driven ebook creation platform with an intelligent layout engine and Canva-style editor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
